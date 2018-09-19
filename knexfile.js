@@ -5,7 +5,6 @@ module.exports = {
   development: {
     client: 'pg',
     connection: 'postgres://postgres:root@localhost/madingbm3'
-  },
-
+  }
   
 };
