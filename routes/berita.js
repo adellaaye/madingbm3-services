@@ -4,7 +4,7 @@ const router = express.Router()
 const queries = require('../db/queries')
 
 router.get('/', (req, res, next) => {
-   queries.getAll().then(result => {
+   queries.getAllBerita().then(result => {
        res.status(200).json(result)
    })
 })

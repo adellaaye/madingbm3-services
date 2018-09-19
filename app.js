@@ -16,6 +16,7 @@ const logger = require('morgan')
 
 const app = express()
 const berita = require('./routes/berita')
+const mading = require('./routes/mading')
 
 /**
  * standard usage
@@ -27,6 +28,7 @@ app.use(express.urlencoded({ extended: false }))
 app.use(cookieParser())
 
 app.use('/api/v1/berita', berita)
+app.use('/api/v1/mading', mading)
 
 /**
  * catch 404 and forward to error handler
