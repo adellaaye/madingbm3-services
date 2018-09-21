@@ -58,5 +58,33 @@ module.exports = {
     },
     getSinglehigh_official(id){
         return knex('high_official').where('id', id)
+    },
+    deletehigh_official(id){
+        return knex('high_official').where('id', id).del()
+    },
+    posthigh_official(body){
+        return knex('high_official').insert({
+            first_name: body.first_name,
+            last_name: body.last_name,
+            degree: body.degree,
+            photo_url: body.photo_url,
+            position: body.position,
+            vision: body.vision,
+            create_at: new Date().toISOString(),
+            modify_at: new Date().toISOString()
+        })
+    },
+    updatehigh_official(id, body){
+        return knex('high_official').where('id', id).update({
+            first_name: body.first_name,
+            last_name: body.last_name,
+            degree: body.degree,
+            photo_url: body.photo_url,
+            position: body.position,
+            vision: body.vision,
+            modify_at: new Date().toISOString()
+
+        })
     }
+
 }
