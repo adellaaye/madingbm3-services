@@ -1,22 +1,22 @@
 module.exports = [
     {
-        title: "Bakso urat sintetis merajalela",
-        images_url: "https://assets-a2.kompasiana.com/items/album/2017/07/06/cara-membuat-bakso-sapi-kenyal-alami-595e4d19907a61d81a89575f.jpg?t=o&v=760",
-        content: "bfghgfghjgygcvfhcvtfcvgvbghjgygtgy5hgtfregrjfjfkfklefejfjebfjebf",
+        title: "Instagram Bantah Luncurkan fiktur Repost",
+        images_url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2018/03/instagram-regram-repost-stories-lead.jpg",
+        content: "JAKARTA – Sebelumnya Instagram diberitakan menimbang untuk meluncurkan fitur repost postingan di platformya. Hal tersebut menjadi berita hangat bagi para pengguna. Seperti diketahui, selama ini jika pengguna ingin repost postingan teman harus menggunakan aplikasi lain. Dilansir dari laman Ubergizmo, Sabtu (22/9/2018) namun sayangnya, hal tersebut tampaknya masih belum diputuskan oleh Instagram. Pihaknya mengkonfirmasi bahwa mereka tidak mengembangkan fitur tersebut dan juga tidak dalam pengujian. Meskipun, tahun lalu ada tanda-tanda bahwa fitur ini akhirnya bisa ada dalam aplikasi.Tahun lalu salah satu pendiri Instagram, Kevin Systrom mengatakan,”Kami mendebatkan banyak hal tentang repost. Tetapi sungguh kepututusan itu untuk menjaga feed pengguna terfokus kepada orang yang pengguna kenal saja”. Sejauh ini satu-satunya cara bagi pengguna untuk membagikan ulang konten yang diposting ke Instagram adalah melalui insta stories. Ini hanya solusi sementara karena stories biasanya berakhir setelah 24 jam. Lalu, diberitakan bahwa Instagram telah meluncurkan fitur GIF pada DM kemarin, sebelumnya Instagram telah meluncurkan stiker GIF untuk insta stories pada Januari 2018. Cara kerjanya sama seperti dalam insta stories, pengguna dapat mencari GIF populer terbaru dengan mengetuk tombol GIF baru di bilah komposer yang sudah disediakan. Menariknya, akan ada banyak GIF yang dapat pengguna pilih dengan menggulirnya.",
         create_at: new Date().toISOString(),
         modify_at: new Date().toISOString()
     },
     {
-        title: "Bakso bihun enak",
-        images_url: "https://assets-a2.kompasiana.com/items/album/2017/07/06/cara-membuat-bakso-sapi-kenyal-alami-595e4d19907a61d81a89575f.jpg?t=o&v=760",
-        content: "bfghgfghjgygcvfhcvtfcvgvbghjgygtgy5hgtfregrjfjfkfklefejfjebfjebf",
+        title: "Youtube Music Hadirkan fiktur kontrol Suara",
+        images_url: "https://d1uyvls174j03l.cloudfront.net/idmobile-en/attachment/width/700/c26dd8bc-00ed-4ec6-8461-575a4383a3e3_thumb.jpg",
+        content: "JAKARTA - Aplikasi Youtube Music kini dilengkapi dengan fitur kontrol kualitas audio saat pengguna melakukan streaming atau mengunduh.Dilansir dari laman Ubergizmo, Sabtu (22/9/2018) kontrol ini sebelumnya tersedia dalam versi APK atau beta pada Juli 2018. Namun kabar baiknya adalah bahwa kontrol ini sekarang tersedia untuk pengguna, di mana pengguna sekarang akan dapat memilih kualitas audio mereka ketika mereka berada di WiFi, atau ketika terhubung ke jaringan internet.Tidak hanya sampai disitu, untuk yang akan mengunduh dan mendengarkan musik secara online. Fitur ini pun digunakan untuk memilih kualitas audio unduhan. Ada juga pilihan untuk menangkap hanya aspek audio dari video, jika pengguna tidak benar-benar perlu melihat video untuk menikmati musik.Namun yang pasti, sebelum menikmati fitur terbaru pengguna harus melakukan pembaruan terhadap aplikasi di Play Store atau App Store.YouTube Music adalah aplikasi seluler yang dikembangkan oleh YouTube. Aplikasi ini menyediakan layanan yang berorientasi pada streaming musik, memungkinkan pengguna untuk menelusuri video musik di YouTube berdasarkan genre, daftar putar, dan rekomendasi.Layanan ini juga menawarkan tingkat premium, yang memungkinkan pemutaran bebas iklan, pemutaran latar belakang audio saja, dan mengunduh lagu untuk pemutaran offline. Manfaat berlangganan ini juga ditawarkan kepada pelanggan Google Play Music dan YouTube Premium.",
         create_at: new Date().toISOString(),
         modify_at: new Date().toISOString()
     },
     {
-        title: "Bakso urat terenak sejakarta",
-        images_url: "https://assets-a2.kompasiana.com/items/album/2017/07/06/cara-membuat-bakso-sapi-kenyal-alami-595e4d19907a61d81a89575f.jpg?t=o&v=760",
-        content: "bfghgfghjgygcvfhcvtfcvgvbghjgygtgy5hgtfregrjfjfkfklefejfjebfjebf",
+        title: "Si Introvert yang Sukses Menjadi Teknopreneur",
+        images_url: "https://i0.wp.com/www.hitsss.com/wp-content/uploads/2015/08/natali-foto-1.jpg?resize=1068%2C1602&ssl=1",
+        content: "Siapa sangka jika seorang Natalie Ardinato dulunya seorang yang tak ramah dan intovert namun sikap buruknya tersebut kini semakin memudar seiring dengan waktu. CTO Tiket.com ini menyukai industri IT sejak dia duduk di bangku sekolah dasar. Kemudian kesukaannya tersebut dia lanjutkan hingga duduk di bangku SMA.Di bangku kuliah. Natalie pun mulai menekuni minatnya di industri IT yang berkuliah di Universitas Indonesia jurusan Ilmu Komputer, tahun 1999-2004. Kemudian dilanjutkan dengan kuliah di Program Master Teknologi Informasi UI.Hobinya menekuni dunia IT pun dia praktekkan dengan mengerjakan proyek-proyek freelance, sebagai web developer situs-situs lokal. Dia juga pernah tergabung dalam perusahaan digital dengan mengerjakan website-website Jerman. Hingga mendapatkan uang sebesar 5000 Euro namun kuliahnya terbengkalai. Meski begitu, Natalie tidak pernah menyesalinya justru karena dirinya sudah berkerja ketika kuliah, saat lulus dia sudah memiliki pengalaman tak mulai dari nol lagi.Meski begitu, ayah dua orang putri ini pernah mengalami kegagalan. Sebelum mendirikan Tiket.com pernah dua kali mendirikan startup yaitu Urbanesia dan Golfnesia.  Kegagalan mendirikan dua startup tersebut justru menjadikan pelajaran, kini Tiket .com yang didirikan oleh Natali Ardianto, Wenas Agusetiawan, Dimas Surya Saputra,dan Gaery Undarsa menjadi salah satu penjual tiket online yang sukses di Indonesia.",
         create_at: new Date().toISOString(),
         modify_at: new Date().toISOString()
     },

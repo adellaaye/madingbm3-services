@@ -69,4 +69,34 @@ module.exports = [
         create_at: new Date().toISOString(),
         modify_at: new Date().toISOString()
     },
+    {
+        first_name: "Lia Nurpitriana",
+        last_name: "utami",
+        degree: "S.Pd",
+        photo_url: "https://www.w3schools.com/howto/img_avatar2.png",
+        position: "sekretaris 2",
+        vision: "RPLLLLLLLLLLLLLLLLLLLLLLLL",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
+    {
+        first_name: "Lia Nurpitriana",
+        last_name: "utami",
+        degree: "S.Pd",
+        photo_url: "https://www.w3schools.com/howto/img_avatar2.png",
+        position: "sekretaris 2",
+        vision: "RPLLLLLLLLLLLLLLLLLLLLLLLL",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
+    {
+        first_name: "Lia Nurpitriana",
+        last_name: "utami",
+        degree: "S.Pd",
+        photo_url: "https://www.w3schools.com/howto/img_avatar2.png",
+        position: "sekretaris 2",
+        vision: "RPLLLLLLLLLLLLLLLLLLLLLLLL",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
 ]
