@@ -69,4 +69,34 @@ module.exports = [
         create_at: new Date().toISOString(),
         modify_at: new Date().toISOString()
     },
+    {
+        first_name: "H.",
+        last_name: "Usman",
+        degree: "Drs. HM,MM",
+        photo_url: "https://www.w3schools.com/howto/img_avatar.png",
+        position: "Kepala Sekolah",
+        vision: "mari maju bersama SMK Bina Mandiri Multimedia",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
+    {
+        first_name: "Suci",
+        last_name: "Maharani",
+        degree: "A.Md",
+        photo_url: "https://www.w3schools.com/howto/img_avatar2.png",
+        position: "Staf",
+        vision: "terus SemangatSS",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
+    {
+        first_name: "Ery",
+        last_name: "andi",
+        degree: ",Spd,.Mpd",
+        photo_url: "https://www.w3schools.com/howto/img_avatar.png",
+        position: "sekretaris 1",
+        vision: "Never Give up",
+        create_at: new Date().toISOString(),
+        modify_at: new Date().toISOString()
+    },
 ]

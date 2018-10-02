@@ -22,9 +22,10 @@ router.delete('/:id', (req, res, next) => {
 })
 
 router.post('/', (req, res, next) => {
-    queries.posthigh_official(req.body).then(result => {
+    queries.posthigh_official(req.body)
+      .then(result => {
         res.status(200).json(result)
-    })
+       })
 })
 
 router.put('/:id', (req, res, next) => {
